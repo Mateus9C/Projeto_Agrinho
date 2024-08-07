@@ -4,12 +4,12 @@
 }
 
 h2{
-    color:orange;
+    color:rgb(255, 38, 0);
 }
 
 .cabeçalho{
     background-color: #020917;
-    color: white;
+    color: rgb(202, 33, 33);
     display: flex;
     justify-content: left;
     align-items: center;
@@ -27,7 +27,7 @@ h2{
 }
 
 section{
-    background-color: #13376D;
+    background-color: #789fdb;
     color: white;
     font-family: Roboto;
     text-align: center;
@@ -35,13 +35,14 @@ section{
     
 }
 
+
 .texto-div-conteudo{
 width: 35%;
 text-align: justify;
 align-items: center;
 }
 h3{
-    color: orange;
+    color: rgb(109, 224, 14);
 
 }
 
