@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h2{
+    color:orange;
+}
+
+.cabeçalho{
+    background-color: #020917;
+    color: white;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding: 10px 0;
+  
+}
+
+.cabeçalho-imagem{
+    width: 20%;
+}
+.cabeçalho-titulo{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px; 
+}
+
+section{
+    background-color: #13376D;
+    color: white;
+    font-family: Roboto;
+    text-align: center;
+    justify-content: center;
+    
+}
+
+.texto-div-conteudo{
+width: 35%;
+text-align: justify;
+align-items: center;
+}
+h3{
+    color: orange;
+
+}
+
+#nome-usuário{
+    font-weight: bold;
+}
+
+.texto-inglês{
+    font-style: italic;
+}
