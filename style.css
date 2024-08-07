@@ -27,8 +27,8 @@ h2{
 }
 
 section{
-    background-color: #789fdb;
-    color: white;
+    background-size: #789fdb;
+    color: rgb(0, 0, 0);
     font-family: Roboto;
     text-align: center;
     justify-content: center;
@@ -44,12 +44,4 @@ align-items: center;
 h3{
     color: rgb(109, 224, 14);
 
-}
-
-#nome-usuário{
-    font-weight: bold;
-}
-
-.texto-inglês{
-    font-style: italic;
 }
